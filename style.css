@@ -1,0 +1,27 @@
+.email{
+    
+    width: 200px;
+    height: 80px;
+    border: 1px solid #000;
+    border-radius: 20px;
+}
+.password{
+    width: 200px;
+    height: 80px;
+    border: 1px solid #000;
+    border-radius: 20px;
+}
+@media(max-width:400px)
+{
+    h1{
+        font-size:20px;
+    }
+    body{
+        background-color: red;
+
+    }
+}
+@media (min-width:400px){
+
+
+}
